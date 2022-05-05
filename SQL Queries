@@ -387,5 +387,3 @@ COPY employed_6 FROM '/Users/ayushe/Downloads/splitFiles/employed_6.csv' DELIMIT
 COPY employed_7 FROM '/Users/ayushe/Downloads/splitFiles/employed_7.csv' DELIMITER ',' HEADER CSV;
 COPY employed_8 FROM '/Users/ayushe/Downloads/splitFiles/employed_8.csv' DELIMITER ',' HEADER CSV;
 COPY employed_9 FROM '/Users/ayushe/Downloads/splitFiles/employed_9.csv' DELIMITER ',' HEADER CSV;
-
-
